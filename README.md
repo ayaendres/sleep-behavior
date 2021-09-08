@@ -1,11 +1,14 @@
 ## React App for calculating sleep time score
+This is a react app so there's a good bit of boilerplate. You can find my code at `src/components` and the mocked
+API is at `src/apis`. Any tests are in a `__tests__` folder in the same directory as the file they test.
+
 My priority in this project was UX and making sure I tested functions and components as I would for
 a proper task. I used create-react-app to bootstrap this project, and antd components since I'm familiar
 with them. I did my best to separate the setup from the code (commit wise), but I think I included some setup
 in the more code focused commits.
 
 I worked on this here and there throughout a workday, so I don't know exactly how much time I spent on it,
-but I committed more time than is probably appropriate on testing the selectors with react-testing-library 🙃.
+but I committed more time than is probably appropriate on testing the selector components with react-testing-library 🙃.
 I am comfortable saying I didn't commit too much time on the rest of the project (falling within
 the expected completion time).
 
@@ -16,6 +19,8 @@ Thank you for taking the time to review this 🎉\
 
 After cloning, you should be able to run the project with `npm install` followed by `npm start` after the downloads finish.
 Navigate to http://localhost:3000 in your browser to see the project.
+
+You can run `npm test` to run all the tests.
 
 ## Available Scripts
 
