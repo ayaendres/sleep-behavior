@@ -5,9 +5,17 @@ with them. I did my best to separate the setup from the code (commit wise), but 
 in the more code focused commits.
 
 I worked on this here and there throughout a workday, so I don't know exactly how much time I spent on it,
-but I committed more time than is probably appropriate on testing the selectors with react-testing-library.
+but I committed more time than is probably appropriate on testing the selectors with react-testing-library 🙃.
 I am comfortable saying I didn't commit too much time on the rest of the project (falling within
 the expected completion time).
+
+Thank you for taking the time to review this 🎉\
+-Aya
+
+## Running the project
+
+After cloning, you should be able to run the project with `npm install` followed by `npm start` after the downloads finish.
+Navigate to http://localhost:3000 in your browser to see the project.
 
 ## Available Scripts
 
